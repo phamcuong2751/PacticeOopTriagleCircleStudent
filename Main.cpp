@@ -71,7 +71,7 @@ void main()
 	cout << "\nXep loai: " << SV.XepLoai();
 
 	//class MangSinhVien: Nhập và xuất mảng các sinh viên + số lượng sinh viên dưới TB + số lượng sinh viên khá + sort(Điểm TB, "A->Z")
-	cout << "\n\n-----------------------------------Class Mang Sinh Vien-----------------------------------";
+	cout << "\n\n-----------------------------------Class Mang Lop Hoc-----------------------------------";
 	LopHoc MangSinhVien;
 	Sleep(1000);
 	int SLSinhVien = rand() % 10 + 1;
